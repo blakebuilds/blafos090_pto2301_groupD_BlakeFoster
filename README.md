@@ -1,4 +1,5 @@
 # codespace
-Code space Intro to Web 
 
-Please see ITW2 folder for project 2
+Intro to Web 
+
+BLAFOS090 - PTO2301 Group D
