@@ -3,33 +3,31 @@
     padding: 20;
 
   }
-
-  header {
-    background-color: white;
-  }
   
   body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background: #C6FFDD;  /* fallback for old browsers */
-    margin: 10px;
+    background: #C6FFDD;
+    margin: 20px;
     ;
   }
   
   h1 {
-    font-size: 50px;
+    font-size: 60px;
     font-weight: bold;
-    color: white;
+    color: #C6FFDD;
     text-transform: uppercase;
     margin-bottom: 20px;
+    margin-top: 20px;
   }
   
   h2 {
     font-size:40px;
     font-weight: bold;
     color: #030301;
+    margin-top: 10px;
     margin-bottom: 10px;
-    border-style: solid;
+    border-style: dashed;
     background-color: white;
  
   }
@@ -37,12 +35,17 @@
   h3 {
     font-size: 30px;
     font-weight: bold;
+    border-style: solid;
+    background-color: white;
+    margin-top: 10px;
     margin-bottom: 10px;
-    border-radius: 10%;
 
   }
 
-
+  header {
+    background-color: white;
+  }
+  
 
   
   p {
@@ -56,12 +59,15 @@
 
   article {
     background-color: wheat;
+
   }
 
   img {
-    border-radius: 50%;
-    background-color: white;
+    border-radius: 100%;
+    background-color: #C6FFDD;
     border-style: double;
+    border-color: transparent;
+    margin: 50px;
   }
 
   
