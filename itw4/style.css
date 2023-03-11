@@ -1,15 +1,16 @@
 * {
-    margin: 10;
-    padding: 10;
+    margin: 20;
+    padding: 20;
 
   }
+
+
   
   body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background: #C6FFDD;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #C6FFDD;
+
     ;
   }
   
@@ -18,14 +19,13 @@
     font-weight: bold;
     color: white;
     text-transform: uppercase;
-    margin-bottom: 10px;
+    background-color: #C6FFDD;
   }
   
   h2 {
     font-size:40px;
     font-weight: bold;
     color: #030301;
-    margin-bottom: 10px;
     border-style: solid;
     background-color: white;
  
@@ -39,23 +39,14 @@
 
   }
 
-  ul {
-    list-style: none;
-    margin-bottom: 10px;
- 
-  }
-  
-  li {
-    margin-bottom: 5px;
-  }
-  
+
 
   
   p {
     font-size: 16px;
     line-height: 1.5;
     color: black;
-    margin-bottom: 10px;
+    margin: 10px;
     background-color: wheat;
   }
 
@@ -64,7 +55,13 @@
     background-color: wheat;
   }
 
+  img {
+    border-radius: 50%;
+    background-color: white;
+    border-style: double;
+  }
+
   
-  
+
   
   
