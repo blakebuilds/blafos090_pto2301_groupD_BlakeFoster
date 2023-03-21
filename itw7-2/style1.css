@@ -185,6 +185,7 @@ button[type="submit"] {
   font-size: x-large;
   margin: auto;
   margin-top: 1px;
+  height: 100vh;
 }
 
 .hero img:hover {
@@ -198,6 +199,7 @@ button[type="submit"] {
 
 .hero h1 {
   font-size: 8rem;
+
   color: #fff;
   animation: move3;
   animation-duration: 1.3s;
